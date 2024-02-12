@@ -1,0 +1,48 @@
+[1mdiff --git a/recetas/Colombia/arroz_coco.html b/recetas/Colombia/arroz_coco.html[m
+[1mindex 853f9f8..b331745 100644[m
+[1m--- a/recetas/Colombia/arroz_coco.html[m
+[1m+++ b/recetas/Colombia/arroz_coco.html[m
+[36m@@ -2,33 +2,33 @@[m
+ <HTML>[m
+ <HEAD>[m
+ 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">[m
+[31m-	<TITLE>Arroz con coco y camarón fresco</TITLE>[m
+[32m+[m	[32m<TITLE>Arroz con coco y camarï¿½n fresco</TITLE>[m
+ </HEAD>[m
+ <BODY LANG="es-ES">[m
+[31m-<H1><IMG ID="imagen3" SRC="../../imagenes/ajiaco.jpg" NAME="Imagen1" ALIGN=LEFT BORDER=0><BR CLEAR=LEFT><BR>[m
+[32m+[m[32m<H1><IMG ID="imagen3" SRC="../../imagenes/arroz_coco.jpg" NAME="Imagen1" ALIGN=LEFT BORDER=0><BR CLEAR=LEFT><BR>[m
+ </H1>[m
+[31m-<H1 ID="titulo3">Arroz con coco y camarón fresco (Región Caribe)</H1>[m
+[32m+[m[32m<H1 ID="titulo3">Arroz con coco y camarï¿½n fresco (Regiï¿½n Caribe)</H1>[m
+ <BR>[m
+[31m-	<P>El arroz con camarones es típico de la Costa Caribe y Costa Pacífica, aunque en las demás regiones ya se ha vuelto un plato muy apetecido para ocasiones especiales.</P>[m
+[32m+[m	[32m<P>El arroz con camarones es tï¿½pico de la Costa Caribe y Costa Pacï¿½fica, aunque en las demï¿½s regiones ya se ha vuelto un plato muy apetecido para ocasiones especiales.</P>[m
+ <BR>[m
+ 	<P>Personas: 8<BR><BR>[m
+ [m
+ 	<B>INGREDIENTES</B><BR>[m
+ 	<UL>[m
+[31m-		<LI type="square">1 coco grande, partido en trozos pequeños<BR></LI>[m
+[32m+[m		[32m<LI type="square">1 coco grande, partido en trozos pequeï¿½os<BR></LI>[m
+ 		<LI type="square">Agua de coco, tibia<BR></LI>[m
+[31m-		<LI type="square">2 cucharadas de azúcar<BR></LI>[m
+[32m+[m		[32m<LI type="square">2 cucharadas de azï¿½car<BR></LI>[m
+ 		<LI type="square">1 libra de arroz<BR></LI>[m
+[31m-		<LI type="square">½ libra de camarón fresco<BR></LI>[m
+[32m+[m		[32m<LI type="square">ï¿½ libra de camarï¿½n fresco<BR></LI>[m
+ 		<LI type="square">Sal al gusto<BR></LI>[m
+ 	</UL>[m
+ </P>[m
+ <BR>[m
+[31m-	<P>Licua el coco con su agua. Pasar por una coladera y exprimir bien. Reservar la leche obtenida y el coco licuado. Repetir la preparación anterior con agua normal con agua normal, tibia, hasta obtener cuatro tazas de leche de coco. Reservar.</P>[m
+[32m+[m	[32m<P>Licua el coco con su agua. Pasar por una coladera y exprimir bien. Reservar la leche obtenida y el coco licuado. Repetir la preparaciï¿½n anterior con agua normal con agua normal, tibia, hasta obtener cuatro tazas de leche de coco. Reservar.</P>[m
+ [m
+[31m-	<P>Aparte, en una olla al fuego, agregar la primera leche, dejar secar hasta obtener el aceite y los doraditos de coco. Incorporar la segunda leche, el azúcar, la sal y dejar hervir.</P>[m
+[32m+[m	[32m<P>Aparte, en una olla al fuego, agregar la primera leche, dejar secar hasta obtener el aceite y los doraditos de coco. Incorporar la segunda leche, el azï¿½car, la sal y dejar hervir.</P>[m
+ [m
+[31m-	<P>Mezclar con el arroz previamente lavado y los camarones. Dejar secar y continuar la cocción a fuego bajo tapado, hasta que el arroz esté listo.</P>[m
+[32m+[m	[32m<P>Mezclar con el arroz previamente lavado y los camarones. Dejar secar y continuar la cocciï¿½n a fuego bajo tapado, hasta que el arroz estï¿½ listo.</P>[m
+ <BR>[m
+ <P><A ID="enlace3" HREF="ajiaco.html">Ajiaco</A></P>[m
+ </BODY>[m
